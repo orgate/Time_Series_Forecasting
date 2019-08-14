@@ -10,4 +10,4 @@ Cost : 0.0027927454
 Test MSEy: 0.006
 
 For LSTM after 100 epochs:
-MSE: 
+MSE: 0.435
