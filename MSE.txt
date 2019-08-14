@@ -1,0 +1,13 @@
+TRAIN_TEST_RATIO = 0.66
+Only subsequent time was forecasted
+
+
+For ARIMA (order - (1,1,0)):
+MSE: 0.378
+
+For Neural Network (2 layers with 10 hidden nodes & look_back=1) after 100 epochs:
+Cost : 0.0027927454
+Test MSEy: 0.006
+
+For LSTM after 100 epochs:
+MSE: 
